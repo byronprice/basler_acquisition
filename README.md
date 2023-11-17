@@ -1,2 +1,2 @@
 # basler_acquisition
-Simple codebase to acquire video data from a Basler high-speed and write to disk.
+Simple codebase to acquire video data from a Basler high-speed camera and write to disk.
